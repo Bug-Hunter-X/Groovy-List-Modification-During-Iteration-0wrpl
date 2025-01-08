@@ -1,0 +1,1 @@
+This repository contains a Groovy code example demonstrating a common error where the list is modified during iteration, leading to unexpected behavior.  The solution shows how to avoid this issue by iterating over a copy of the list or using an iterator.
